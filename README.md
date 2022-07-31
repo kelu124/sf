@@ -38,7 +38,7 @@ Ideas of SF
 
 ## Persos
 
-* Nanar - GuyD (7) le nomade paysan freelancer anar 	
+* Nanar - GuyD (7) le nomade paysan freelancer anar 
 * Death guy	
 * Digital twin guy	
 * IP guy	
@@ -54,17 +54,17 @@ Ideas of SF
 * Maker	
 * Nomad	
 * Data analyst (8)
-* David -> Bricolo		
-* Equipementier		
+* David -> Bricolo	
+* Equipementier	
 
 ##  Anti
 
-* Influencers (1)	
+* Influencers	
 * Complotiste	
-* Corpo dataguy (3)	
+* Corpo dataguy	
 * Politico	
-* Ml dresseur (6)
-* Cryptoguy (1)				
+* Ml dresseur 
+* Cryptoguy 
 
 
 ## Micros
