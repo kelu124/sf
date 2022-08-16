@@ -45,7 +45,14 @@
 ## Macro
 
 * Attention economy
+* shortages of chips
+* shortages of copper
+* shortages of rare earth
+* russia conflicts
 
+
+* Where AI lives, all languages will be equivalent, provided human machine interfaces grow
+* If [AI create wonderful images](https://twitter.com/VividVoid_/status/1512140765656338432), what is the purpose of an artist?
 
 ## Micros
 
@@ -99,8 +106,7 @@
 * assembling stuff from orders all around the world	
 * sales of faraday cage	
 * business lockers et local logistics
-* wearable projection masks and spoofers	
-* chips shortages	
+* wearable projection masks and spoofers	 
 * Services to elders and retirees ( ! -> quality of life)
 * Temperature raise
 * Voice techs	
@@ -117,26 +123,4 @@
 * ESG washing ( https://www.bloomberg.com/news/articles/2022-06-10/goldman-sachs-facing-sec-probe-of-esg-funds-in-asset-management?utm_source=pocket_mylist )
 * Heatwaves naming (https://www.axios.com/2022/06/08/hurricanes-wildfires-heat-waves-names-categories)
 * UK poverty and digital inequalities ( https://communityfibre.co.uk/press/one-in-five-uk-households-cannot-afford-to-be-online ) 
-
-
-# Structures
-
-* http://changingminds.org/disciplines/storytelling/plots/booker_plots/booker_plots.htm
-
-## 8 points arc
-
-* Stasis
-* Trigger
-* Quest
-* Surprise
-* Critical choice
-* Climax
-* Reversal
-* Resolution
-
-
-## Other interesting:
-
-* http://changingminds.org/disciplines/storytelling/plots/vogler_structure.htm
-* http://changingminds.org/disciplines/storytelling/plots/propp/31_narratemes.htm
 
